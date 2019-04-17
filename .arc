@@ -3,7 +3,6 @@ plant-8wa
 
 @http
 get /
-post /graphql
 
 @tables
 data
