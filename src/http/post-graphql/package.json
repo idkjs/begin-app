@@ -2,6 +2,11 @@
   "name": "begin-app-post-graphql",
   "dependencies": {
     "@architect/functions": "latest",
-    "@begin/data": "latest"
+    "@begin/data": "latest",
+    "apollo-server-core": "latest",
+    "graphql": "latest",
+    "graphql-iso-date": "latest",
+    "graphql-tools": "latest",
+"graphql-type-json": "latest"
   }
 }
