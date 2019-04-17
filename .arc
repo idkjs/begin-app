@@ -1,13 +1,9 @@
-#
-# Warning! Do Not Edit
-# --------------------
-# This is a generated file and will be overwritten
-#
 @app
-begin-app
+plant-8wa
 
 @http
 get /
+get /grahpql
 
 @tables
 data
