@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-post-graphql",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
